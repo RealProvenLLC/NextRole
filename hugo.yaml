@@ -1,4 +1,20 @@
 baseURL: https://realprovenllc.github.io/NextRole/
 languageCode: en-us
-title: My New Hugo Site
+title: NextRole
 theme: hextra
+params:
+  page:
+    width: full
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/nextrole-logo-med.png
+      link: /
+      width: 32
+      height: 32
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+
