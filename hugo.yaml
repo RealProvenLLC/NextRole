@@ -14,11 +14,14 @@ params:
     displayLogo: true
     logo:
       path: images/nextrole-logo-med.png
-      link: /
       width: 32
       height: 32
   theme:
     # light | dark | system
     default: light
     displayToggle: false
-
+menu:
+  main:
+    - name: Support
+      pageRef: /support
+      weight: 5
