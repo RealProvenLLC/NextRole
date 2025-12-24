@@ -30,7 +30,7 @@ Including specialized job search and integrated browsing into **NextRole** makes
 
 ## Analytics
 
-The combination of documentation, specialized search and integrated browsing allows **NextRole** to update your journal with useful context.  As you add notes and **NextRole** automatically adds analytics, the documentation grows more informative over time, creating a virtuous cycle that makes it an even stronger resource tomorrow.
+The combination of documentation, specialized search and integrated browsing allows **NextRole** to update your journal with useful context.  As you add notes and **NextRole** automatically adds analytics, the documentation grows more informative over time, creating a virtuous cycle and an even better resource tomorrow.
 
 ![](app-promo-4.png)
 
