@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NextRole – Roadmap</title>
+    <link>http://localhost:1313/NextRole/blog/</link>
+    <description>Recent content in Roadmap on NextRole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Dec 2025 16:14:30 -0500</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/NextRole/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>First release</title>
+      <link>http://localhost:1313/NextRole/blog/post-122325/</link>
+      <pubDate>Tue, 23 Dec 2025 16:13:45 -0500</pubDate>
+      
+      <guid>http://localhost:1313/NextRole/blog/post-122325/</guid>
+      <description>
+        
+        
+        &lt;p&gt;As I&amp;rsquo;m wrapping up the polish on the first release and slowly completing all the non-coding tasks necessary to get it into the store, I&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
