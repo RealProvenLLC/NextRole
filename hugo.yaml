@@ -31,3 +31,6 @@ menu:
     - name: Privacy
       pageRef: /privacy
       weight: 6 
+    - name: Terms
+      pageRef: /tos
+      weight: 7 

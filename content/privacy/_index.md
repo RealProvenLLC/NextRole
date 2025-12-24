@@ -3,15 +3,32 @@ date: '2025-12-24T08:33:40-05:00'
 title: ''
 toc: false
 ---
-# Privacy Policy
+# NextRole Privacy Policy
+**Effective Date: December 24, 2025**
+
 A journal is a personal thing.  For that reason, **NextRole** (and RealProven, LLC) treats your privacy as an essential feature of this experience.  The specifics are as follows:
 
-- your journal notes will **never** used to identify you or shared with anyone without your permission.
+### Data We Collect
+- **Journal Notes and Document Content**  
+  All journal entries, notes, and document data are stored exclusively on your device (and in iCloud if you enable it for your own syncing/backup). We never access, transmit, or store this data on our servers.
 
-- any interaction within the integrated search and browser experience is subject to the privacy policies of the APIs of the supporting services and the sites you visit.
+- **Search and Browsing Interactions**  
+  NextRole monitors browsing within the integrated web view (e.g., URLs visited, page titles, extracted job-related elements) solely to help you add relevant content to your personal journal.  This data is used only locally to support journaling features and is not transmitted, stored long-term, or shared in any way.
 
-- **NextRole** collects anonymous analytics from your interactions with it and the browser experience to improve the app.
+- **No Other Data Collection**  
+  We do not collect analytics, usage data, crash reports, or any other information about how you use the app.
 
-- if you allow Apple to share information with developers, we will receive anonmous analytics about how the app is working.
+### Data Sharing
+We do not share, sell, or transmit any of your data to third parties, except as required by law.
 
-If you have any specific questions about this policy that aren't answered here, please feel free to [contact us](../support).
+### Data Security
+Your journal data is protected by macOS file system security and, when using iCloud, Apple's encryption standards.
+
+### Your Rights
+You control all your data. You can view, edit, export, or delete your journals at any time. Uninstalling the app removes all local data.
+
+### Changes to This Policy
+We will update this policy if our practices change and notify you via the app or website.
+
+If you have any specific questions about this policy that aren’t answered here, please feel free to [contact us](../support).
+
