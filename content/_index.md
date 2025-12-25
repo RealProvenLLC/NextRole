@@ -9,12 +9,12 @@ toc: false
 The tech industry is not for the weak.  Our skills are 
 [depreciating faster than ever before](https://www.forbes.com/sites/joemckendrick/2023/10/14/half-of-all-skills-will-be-outdated-within-two-years-study-suggests/) and the [competition to find new roles is higher than almost every other industry](https://devsu.com/blog/navigating-software-developer-turnover-challenges).  We've all embraced the need to plan our careers carefully, learn constantly, and adapt quickly to succeed.  When you leave the certainty of one job in search of another, why should your methodology be any different?
 
-**NextRole** organizes and supports your job change by tightly integrating documentation, discovery, and analytics into a single app experience for macOS.
+**NextRole** organizes and supports your job change by tightly integrating journaling, discovery, and analytics into a single app experience for macOS.
 
 ![](app-promo-1.png)
 
 
-## Documentation
+## Journaling
 
 **NextRole** is a specialized journal to track your job search.  You're not documenting your life's work, but what makes your life's work possible, so it prioritizes quick updates and <a href="https://commonmark.org" target="_blank" rel="noopener">clean formatting</a>.  That way you can keep notes without learning anything new and get back to your priorities.
 
@@ -30,7 +30,7 @@ Including specialized job search and integrated browsing into **NextRole** makes
 
 ## Analytics
 
-The combination of documentation, specialized search and integrated browsing allows **NextRole** to update your journal with useful context.  As you add notes and **NextRole** automatically adds analytics, the documentation grows more informative over time, creating a virtuous cycle and an even better resource tomorrow.
+The combination of historical record, specialized search and integrated browsing allows **NextRole** to update your journal with useful context.  As you add notes and **NextRole** automatically adds analytics, the documentation grows more informative over time, creating a virtuous cycle and an even better resource tomorrow.
 
 ![](app-promo-4.png)
 
