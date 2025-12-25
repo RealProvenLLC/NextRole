@@ -4,7 +4,7 @@ draft: false
 title: ''
 toc: false
 ---
-# Find software jobs the way that Darwin intended
+# Evolve your software job search
 
 The tech industry is not for the weak.  Our skills are 
 [depreciating faster than ever before](https://www.forbes.com/sites/joemckendrick/2023/10/14/half-of-all-skills-will-be-outdated-within-two-years-study-suggests/) and the [competition to find new roles is higher than almost every other industry](https://devsu.com/blog/navigating-software-developer-turnover-challenges).  We've all embraced the need to plan our careers carefully, learn constantly, and adapt quickly to succeed.  When you leave the certainty of one job in search of another, why should your methodology be any different?
