@@ -47,7 +47,7 @@ This lightweight dataset grows into an honest record of your market exposure wit
 
 ## Land your best job
 
-The industry is a lot different than it was even five years ago. It is no longer sufficient to have picked up a hot technology, sent out a handful of resumes, and expected your choice of offers. Now with AI interviewing us and even small companies building software at massive scale, the goalposts for our skills move miles farther every year.
+The industry is a lot different than it was even five years ago. It is no longer sufficient to have picked up a hot technology, sent out a handful of resumes, and still expect your choice of offers. Now with AI interviewing us and even small companies building software at massive scale, the goalposts for our skills move miles farther every year.
 
 If you agree that your job search deserves the same rigor as your code, you could cobble something together with Notes, Safari, and Numbers…
 
